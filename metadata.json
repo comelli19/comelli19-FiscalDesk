@@ -1,0 +1,6 @@
+{
+  "name": "FiscalDesk — Sistema de Apoio ao Analista Fiscal",
+  "description": "Plataforma de inteligência fiscal corporativa. Determinação automática de CFOP, catálogo NCM universal, importador e comparativo de XML de NF-e, mapa fiscal do Brasil e reforma tributária.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
