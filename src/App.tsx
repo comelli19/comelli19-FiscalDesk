@@ -1,4 +1,5 @@
 import React, { useState, useEffect, Suspense, lazy } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import {
   CFOP,
   UFInfo,
@@ -428,6 +429,8 @@ export default function App() {
           />
         </Suspense>
       )}
+
+      <Analytics />
     </div>
   );
 }
